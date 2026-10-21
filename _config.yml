@@ -1,0 +1,20 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Batch Watermark Video
+description: Documentation for Batch Watermark Video — local text and logo watermarking for video folders.
+url: "https://3thousand30.github.io"
+baseurl: "/batchwatermarkvideo-docs"
+
+color_scheme: light
+nav_sort: order
+
+logo: "assets/images/logo.png"
+
+aux_links:
+  "Get on Microsoft Store": "https://apps.microsoft.com/detail/9P13V309MK2S"
+
+aux_links_new_tab: true
+
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> &mdash;
+  <a href="mailto:hello@3thousand30.com?subject=Batch%20Watermark%20Video%20support">Support</a>
