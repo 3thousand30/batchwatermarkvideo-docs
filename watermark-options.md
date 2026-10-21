@@ -14,6 +14,8 @@ Use a text watermark, an image logo, or both together. Text is useful for an own
 
 Choose any of the nine anchors: top-left, top, top-right, left, centre, right, bottom-left, bottom, or bottom-right. For normal delivery copies, **Fixed** keeps the mark in exactly that place throughout the video.
 
+Fixed placement is not used when **Moving** is selected; the selected motion path determines the watermark position.
+
 ## Moving proof watermark
 
 Select **Moving**, then choose a path:
