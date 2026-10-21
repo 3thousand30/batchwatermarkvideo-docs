@@ -34,7 +34,6 @@ Processing happens locally on your device through the FFmpeg engine bundled with
 - **Appearance controls** — adjust opacity, text size, and edge margin.
 - **Safe outputs** — originals are never overwritten; a temporary candidate is promoted only after FFmpeg succeeds.
 - **Output controls** — choose an output folder, filename suffix, and whether to skip existing files.
-- **Metadata removal** — optionally remove embedded metadata from the newly created copies.
 - **Activity logs** — review processed, skipped, and failed videos.
 - **Local processing** — no account, upload, telemetry, or cloud watermarking service.
 

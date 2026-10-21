@@ -14,4 +14,3 @@ For every input, BWV writes a temporary MP4 candidate in the output folder. It p
 
 Enable **Skip existing output files** to preserve a prior output during a re-run. With it disabled, a successfully completed watermark copy replaces an existing output of the same name.
 
-**Remove video metadata** removes embedded metadata from the new copy only. It does not remove visible information already shown in the original video.
