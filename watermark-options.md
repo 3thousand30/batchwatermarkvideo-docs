@@ -25,10 +25,10 @@ Select **Moving**, then choose a path:
 
 This is useful for review copies and proof footage because a crop that removes the mark in one segment will not remove it consistently across the full clip. It is a deterrent, not a replacement for access control or copyright enforcement.
 
-## Opacity, text size, and margin
+## Text colour, opacity, text size, and margin
 
-Start with 70% opacity, 36px text, and a 32px margin. Increase opacity for proof copies; lower it for subtle branding. Check a representative short output when your source videos have unusual dimensions or very high resolution.
+Use the colour swatch beside **Text watermark** to choose a text colour. Start with white text at 70% opacity, 36px text, and a 32px margin. Increase opacity for proof copies; lower it for subtle branding. Check a representative short output when your source videos have unusual dimensions or very high resolution.
 
 ## Frame preview
 
-BWV uses a frame from the first supported video in the selected folder to show the current watermark. The preview updates after a short pause when you change text, logo, placement, opacity, text size, margin, motion, or motion path. Use **Original**, **Watermarked**, or **Split** to compare the rendered result before processing the full batch. A moving preview shows its start position; use a short test output to review the full path.
+BWV uses a frame from the first supported video in the selected folder to show the current watermark. The preview updates after a short pause when you change text, text colour, logo, placement, opacity, text size, margin, motion, or motion path. Use **Original**, **Watermarked**, or **Split** to compare the rendered result before processing the full batch. A moving preview shows its start position; use a short test output to review the full path.

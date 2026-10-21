@@ -17,7 +17,7 @@ Choose a folder, enter watermark text and/or select a logo, set its placement an
 ## How it works
 
 1. **Select your input folder** — choose a folder containing supported videos.
-2. **Set the watermark** — use text, a logo, or both; choose placement, opacity, text size, and margin.
+2. **Set the watermark** — use text, a logo, or both; choose text colour, placement, opacity, text size, and margin.
 3. **Choose fixed or moving placement** — fixed marks can use all nine anchor positions. Moving marks follow a horizontal, vertical, DVD-style diagonal, or varied safe-position path.
 4. **Choose the output folder and watermark** — BWV writes safe, watermarked MP4 copies and records every result.
 
@@ -31,7 +31,7 @@ Processing happens locally on your device through the FFmpeg engine bundled with
 - **Text, logo, or both** — add an ownership notice, a brand mark, or a combined watermark.
 - **Nine fixed placements** — position a consistent watermark at any corner, edge centre, or the centre.
 - **Moving proof watermark** — choose horizontal, vertical, diagonal bounce, or varied safe positions to make consistent cropping harder.
-- **Appearance controls** — adjust opacity, text size, and edge margin.
+- **Appearance controls** — choose text colour and adjust opacity, text size, and edge margin.
 - **Safe outputs** — originals are never overwritten; a temporary candidate is promoted only after FFmpeg succeeds.
 - **Output controls** — choose an output folder, filename suffix, and whether to skip existing files.
 - **Activity logs** — review processed, skipped, and failed videos.
